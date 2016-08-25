@@ -26,7 +26,9 @@
   
   <!-- Plugins -->  
   <!-- Core plugins -->   
+  
   <plugin name="cordova-plugin-vibration" source="npm" spec="~2.1.0"/>
+  <plugin name="org.apache.cordova.dialogs" spec="0.3.0" source="pgb" />
   
   <icon src="icon.png"/>
   <platform name="android">
